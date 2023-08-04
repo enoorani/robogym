@@ -13,7 +13,7 @@ def setup_robogym():
             "collision==1.2.2",
             "gym==0.15.3",
             "kociemba==1.2.1",
-            "mujoco-py==2.0.2.8",
+            "mujoco-py==2.0.2.10",
             "pycuber==0.2.2",
             "matplotlib==3.1.2",
             "transforms3d==0.3.1",
