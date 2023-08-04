@@ -11,7 +11,7 @@ def setup_robogym():
             # Fixed versions
             "click==7.0",
             "collision==1.2.2",
-            #"gym==0.15.3",
+            "gym==0.15.3",
             "kociemba==1.2.1",
             "mujoco==2.1.2", #"mujoco-py==2.0.2.10",
             "pycuber==0.2.2",
